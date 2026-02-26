@@ -1,0 +1,281 @@
+Gouvernorat;Etablissement;Filière;Code_Filiere;Section_Bac;Score_2022;Score_2023;Score_2024
+Tunis;Faculté de Médecine de Tunis;Médecine;101;S;3.15;3.22;3.28
+Tunis;Faculté de Médecine de Tunis;Médecine;101;M;3.10;3.18;3.25
+Tunis;Faculté de Médecine de Tunis;Pharmacie;102;S;3.05;3.10;3.15
+Tunis;Faculté de Médecine de Tunis;Pharmacie;102;M;2.98;3.02;3.08
+Tunis;Faculté de Médecine de Tunis;Médecine Dentaire;103;S;2.95;3.00;3.05
+Tunis;Faculté des Sciences de Tunis;Licence Informatique;201;M;2.45;2.52;2.58
+Tunis;Faculté des Sciences de Tunis;Licence Informatique;201;I;2.30;2.35;2.42
+Tunis;Faculté des Sciences de Tunis;Licence Mathématiques;202;M;2.60;2.65;2.70
+Tunis;Faculté des Sciences de Tunis;Licence Physique;203;S;2.15;2.20;2.25
+Tunis;Faculté des Sciences de Tunis;Licence Physique;203;M;2.20;2.25;2.30
+Tunis;Faculté des Sciences de Tunis;Licence Chimie;204;S;1.95;2.00;2.05
+Tunis;Faculté des Sciences de Tunis;Licence Biologie;205;S;2.10;2.15;2.22
+Tunis;Faculté des Sciences de Tunis;Licence Géologie;206;S;1.75;1.80;1.85
+Tunis;ENIT;Cycle Préparatoire Ingénieur;301P;M;2.80;2.85;2.90
+Tunis;ENIT;Cycle Préparatoire Ingénieur;301P;T;2.70;2.75;2.82
+Tunis;ENIT;Cycle Préparatoire Ingénieur;301P;S;2.72;2.78;2.85
+Tunis;ENIT;Cycle Ingénieur Génie Civil;302;M;2.65;2.70;2.76
+Tunis;ENIT;Cycle Ingénieur Génie Civil;302;T;2.55;2.60;2.68
+Tunis;ESSECT;Licence Gestion;401;E;1.85;1.90;1.95
+Tunis;ESSECT;Licence Finance;402;E;2.00;2.05;2.10
+Tunis;ESSECT;Licence Commerce International;403;E;1.90;1.95;2.00
+Tunis;ESSECT;Licence Marketing;404;E;1.80;1.85;1.92
+Tunis;ENSI;Cycle Ingénieur Informatique;405;M;2.90;2.95;3.00
+Tunis;ENSI;Cycle Ingénieur Informatique;405;I;2.75;2.80;2.88
+Tunis;ENSIT;Cycle Ingénieur Textile;406;T;2.10;2.15;2.22
+Tunis;ENSIT;Cycle Ingénieur Mécanique;407;T;2.20;2.25;2.30
+Tunis;ENSIT;Cycle Ingénieur Mécanique;407;M;2.30;2.35;2.40
+Tunis;IPEST;Classe Préparatoire MP;408P;M;3.00;3.05;3.10
+Tunis;IPEST;Classe Préparatoire PC;409P;S;2.85;2.90;2.95
+Tunis;IPEST;Classe Préparatoire PC;409P;M;2.88;2.92;2.98
+Tunis;ISG Tunis;Licence Informatique de Gestion;410;E;2.05;2.10;2.15
+Tunis;ISG Tunis;Licence Informatique de Gestion;410;M;2.15;2.20;2.25
+Tunis;ISG Tunis;Licence Comptabilité;411;E;1.95;2.00;2.05
+Tunis;ISBST;Licence Biotechnologie;412;S;2.25;2.30;2.35
+Tunis;Faculté de Droit de Tunis;Licence Droit Privé;413;L;1.60;1.65;1.70
+Tunis;Faculté de Droit de Tunis;Licence Droit Public;414;L;1.55;1.60;1.65
+Tunis;Faculté de Droit de Tunis;Licence Sciences Politiques;415;L;1.70;1.75;1.80
+Tunis;FLAHM;Licence Langue Française;416;L;1.45;1.50;1.55
+Tunis;FLAHM;Licence Langue Anglaise;417;L;1.65;1.70;1.75
+Tunis;FLAHM;Licence Histoire;418;L;1.30;1.35;1.40
+Tunis;FLAHM;Licence Philosophie;419;L;1.25;1.30;1.35
+Tunis;ISSEP Tunis;Licence STAPS;420;SP;1.40;1.45;1.50
+Tunis;ISSEP Tunis;Licence Entraînement Sportif;421;SP;1.35;1.40;1.45
+Tunis;ISAMM;Licence Multimédia;422;I;2.10;2.15;2.20
+Tunis;ISAMM;Licence Journalisme;423;L;1.70;1.75;1.82
+Tunis;ESPRIT;Cycle Ingénieur Informatique;424;M;2.40;2.45;2.52
+Tunis;ESPRIT;Cycle Ingénieur Informatique;424;I;2.25;2.30;2.38
+Tunis;ESPRIT;Cycle Ingénieur Télécommunications;425;M;2.35;2.40;2.48
+Tunis;ESPRIT;Cycle Ingénieur Génie Civil;426;T;2.15;2.20;2.28
+Ariana;INSAT;Cycle Ingénieur Informatique;1501;M;2.85;2.90;2.96
+Ariana;INSAT;Cycle Ingénieur Informatique;1501;I;2.70;2.75;2.82
+Ariana;INSAT;Cycle Ingénieur Réseaux;1502;M;2.70;2.75;2.80
+Ariana;INSAT;Cycle Ingénieur Biologie;1503;S;2.60;2.65;2.72
+Ariana;INSAT;Cycle Ingénieur Chimie Industrielle;1504;S;2.45;2.50;2.55
+Ariana;ENAU;Architecture;1505;M;2.55;2.60;2.68
+Ariana;ENAU;Architecture;1505;T;2.45;2.50;2.58
+Ariana;Faculté des Sciences de Tunis El Manar;Licence Informatique;1506;M;2.35;2.40;2.48
+Ariana;Faculté des Sciences de Tunis El Manar;Licence Informatique;1506;I;2.20;2.25;2.32
+Ariana;SUPCOM;Cycle Ingénieur Télécommunications;1507;M;3.05;3.10;3.15
+Ariana;SUPCOM;Cycle Ingénieur Télécommunications;1507;I;2.90;2.95;3.02
+Ariana;ESC;Licence Commerce;1508;E;1.80;1.85;1.90
+Ariana;ESC;Licence Logistique;1509;E;1.75;1.80;1.85
+Ben Arous;ESSTT;Cycle Ingénieur Génie Électrique;1601;T;2.30;2.35;2.42
+Ben Arous;ESSTT;Cycle Ingénieur Génie Électrique;1601;M;2.40;2.45;2.50
+Ben Arous;ESSTT;Licence Électromécanique;1602;T;1.90;1.95;2.02
+Ben Arous;ESSTT;Licence Génie Informatique;1603;M;2.20;2.25;2.30
+Ben Arous;ESSTT;Licence Génie Informatique;1603;I;2.05;2.10;2.18
+Ben Arous;ISET Ben Arous;Licence Appliquée Informatique;1604;M;1.80;1.85;1.92
+Ben Arous;ISET Ben Arous;Licence Appliquée Informatique;1604;I;1.65;1.70;1.78
+Ben Arous;ISET Ben Arous;Licence Génie Mécanique;1605;T;1.70;1.75;1.82
+Ben Arous;ISET Ben Arous;Licence Maintenance Industrielle;1606;T;1.60;1.65;1.72
+Ben Arous;ISI;Cycle Ingénieur Informatique;1607;M;2.65;2.70;2.78
+Ben Arous;ISI;Cycle Ingénieur Informatique;1607;I;2.50;2.55;2.62
+Manouba;ENIG;Cycle Ingénieur Génie Industriel;1701;M;2.45;2.50;2.58
+Manouba;ENIG;Cycle Ingénieur Génie Industriel;1701;T;2.35;2.40;2.48
+Manouba;Faculté des Lettres de Manouba;Licence Langue Arabe;1702;L;1.20;1.25;1.30
+Manouba;Faculté des Lettres de Manouba;Licence Langue Française;1703;L;1.35;1.40;1.45
+Manouba;Faculté des Lettres de Manouba;Licence Civilisation;1704;L;1.15;1.20;1.25
+Manouba;ISCAE;Licence Comptabilité;1705;E;1.90;1.95;2.00
+Manouba;ISCAE;Licence Management;1706;E;1.85;1.90;1.95
+Manouba;ISCAE;Licence Marketing Digital;1707;E;1.82;1.88;1.92
+Manouba;ESPA;Licence Sciences Politiques;1708;L;1.55;1.60;1.65
+Manouba;IPSI;Licence Presse;1709;L;1.50;1.55;1.62
+Manouba;IPSI;Licence Communication;1710;L;1.55;1.60;1.68
+Nabeul;ISSAT Nabeul;Licence Génie Logiciel;1001;M;2.10;2.15;2.22
+Nabeul;ISSAT Nabeul;Licence Génie Logiciel;1001;I;1.95;2.00;2.08
+Nabeul;ISSAT Nabeul;Licence Génie Civil;1002;T;1.80;1.85;1.92
+Nabeul;ISSAT Nabeul;Licence Génie Mécanique;1003;T;1.75;1.80;1.88
+Nabeul;ISSAT Nabeul;Licence Génie Électrique;1004;T;1.70;1.75;1.82
+Nabeul;ISSAT Nabeul;Cycle Préparatoire Ingénieur;1005P;M;2.30;2.35;2.42
+Nabeul;ISSAT Nabeul;Cycle Préparatoire Ingénieur;1005P;T;2.20;2.25;2.32
+Nabeul;Faculté des Sciences de Nabeul;Licence Informatique;1006;M;2.00;2.05;2.12
+Nabeul;Faculté des Sciences de Nabeul;Licence Informatique;1006;I;1.85;1.90;1.98
+Nabeul;Faculté des Sciences de Nabeul;Licence Mathématiques;1007;M;2.15;2.20;2.28
+Nabeul;Faculté des Sciences de Nabeul;Licence Biologie;1008;S;1.65;1.70;1.78
+Nabeul;ISET Nabeul;Licence Appliquée en TIC;1009;I;1.60;1.65;1.72
+Nabeul;ISET Nabeul;Licence Appliquée Commerce;1010;E;1.45;1.50;1.58
+Zaghouan;ISSAT Zaghouan;Licence Génie Mécanique;2101;T;1.70;1.75;1.80
+Zaghouan;ISSAT Zaghouan;Licence Génie Électrique;2102;T;1.65;1.70;1.75
+Zaghouan;ISSAT Zaghouan;Licence Informatique Industrielle;2103;M;1.80;1.85;1.92
+Zaghouan;ISSAT Zaghouan;Licence Informatique Industrielle;2103;I;1.65;1.70;1.78
+Zaghouan;ISSAT Zaghouan;Licence Génie Énergétique;2104;T;1.60;1.65;1.72
+Zaghouan;ISSAT Zaghouan;Cycle Préparatoire Ingénieur;2105P;M;2.05;2.10;2.18
+Zaghouan;ISSAT Zaghouan;Cycle Préparatoire Ingénieur;2105P;T;1.95;2.00;2.08
+Bizerte;Faculté des Sciences de Bizerte;Licence Informatique;1101;M;2.00;2.05;2.12
+Bizerte;Faculté des Sciences de Bizerte;Licence Informatique;1101;I;1.85;1.90;1.98
+Bizerte;Faculté des Sciences de Bizerte;Licence Biologie;1102;S;1.55;1.60;1.68
+Bizerte;Faculté des Sciences de Bizerte;Licence Mathématiques;1103;M;2.10;2.15;2.22
+Bizerte;Faculté des Sciences de Bizerte;Licence Physique;1104;S;1.60;1.65;1.72
+Bizerte;Faculté des Sciences de Bizerte;Licence Chimie;1105;S;1.50;1.55;1.62
+Bizerte;ISET Bizerte;Licence Appliquée Informatique;1106;M;1.70;1.75;1.82
+Bizerte;ISET Bizerte;Licence Appliquée Informatique;1106;I;1.55;1.60;1.68
+Bizerte;ISET Bizerte;Licence Génie Mécanique;1107;T;1.50;1.55;1.62
+Bizerte;ISSEP Bizerte;Licence STAPS;1108;SP;1.20;1.25;1.30
+Bizerte;ISLT Bizerte;Licence Langues Appliquées;1109;L;1.30;1.35;1.42
+Béja;ISAB;Licence Agronomie;2001;S;1.40;1.45;1.52
+Béja;ISAB;Licence Industries Alimentaires;2002;S;1.35;1.40;1.48
+Béja;ISAB;Licence Génie Rural;2003;T;1.30;1.35;1.42
+Béja;ISL Béja;Licence Droit;2004;L;1.15;1.20;1.28
+Béja;ISL Béja;Licence Langues;2005;L;1.10;1.15;1.22
+Béja;ISET Béja;Licence Appliquée Informatique;2006;M;1.45;1.50;1.58
+Béja;ISET Béja;Licence Appliquée Informatique;2006;I;1.30;1.35;1.42
+Jendouba;ISSHJ;Licence Sciences Humaines;1501J;L;1.20;1.25;1.30
+Jendouba;ISSHJ;Licence Sociologie;1502J;L;1.15;1.20;1.25
+Jendouba;FSJEGJ;Licence Économie;1503J;E;1.25;1.30;1.35
+Jendouba;FSJEGJ;Licence Gestion;1504J;E;1.20;1.25;1.32
+Jendouba;FSJEGJ;Licence Droit;1505J;L;1.18;1.22;1.28
+Jendouba;ISA Tabarka;Licence Sciences Agronomiques;1506J;S;1.30;1.35;1.42
+Jendouba;ISET Jendouba;Licence Appliquée Informatique;1507J;M;1.35;1.40;1.48
+Jendouba;ISET Jendouba;Licence Appliquée Informatique;1507J;I;1.20;1.25;1.32
+Le Kef;ISEK;Licence Économie;2201;E;1.15;1.20;1.25
+Le Kef;ISEK;Licence Informatique de Gestion;2202;E;1.20;1.25;1.32
+Le Kef;ISEK;Licence Informatique de Gestion;2202;M;1.35;1.40;1.48
+Le Kef;IHET Kef;Licence Comptabilité;2203;E;1.18;1.22;1.28
+Le Kef;ISBK;Licence Biologie;2204;S;1.25;1.30;1.38
+Le Kef;ISBK;Licence Sciences de la Vie;2205;S;1.20;1.25;1.32
+Siliana;ISSAS;Licence Sport;1901;SP;1.10;1.15;1.22
+Siliana;ISSAS;Licence Entraînement Sportif;1902;SP;1.05;1.10;1.18
+Siliana;ISSAS;Licence Activités Physiques Adaptées;1903;SP;1.08;1.12;1.20
+Siliana;ISET Siliana;Licence Appliquée Informatique;1904;M;1.30;1.35;1.42
+Siliana;ISET Siliana;Licence Appliquée Informatique;1904;I;1.15;1.20;1.28
+Siliana;ISET Siliana;Licence Génie Électrique;1905;T;1.25;1.30;1.38
+Sousse;Faculté de Médecine de Sousse;Médecine;501;S;3.00;3.08;3.12
+Sousse;Faculté de Médecine de Sousse;Médecine;501;M;2.95;3.02;3.08
+Sousse;Faculté de Médecine de Sousse;Médecine Dentaire;502;S;2.90;2.95;3.00
+Sousse;Faculté de Médecine de Sousse;Pharmacie;503;S;2.85;2.90;2.95
+Sousse;ENISO;Cycle Ingénieur Informatique;601;M;2.50;2.55;2.60
+Sousse;ENISO;Cycle Ingénieur Informatique;601;I;2.35;2.40;2.48
+Sousse;ENISO;Cycle Ingénieur Mécatronique;602E;M;2.40;2.45;2.52
+Sousse;ENISO;Cycle Ingénieur Mécatronique;602E;T;2.30;2.35;2.42
+Sousse;ENISO;Cycle Ingénieur Télécommunications;603E;M;2.45;2.50;2.55
+Sousse;ISG Sousse;Licence Informatique de Gestion;604;E;1.70;1.75;1.82
+Sousse;ISG Sousse;Licence Comptabilité;605;E;1.75;1.80;1.85
+Sousse;ISG Sousse;Licence Finance;606;E;1.80;1.85;1.90
+Sousse;Faculté des Sciences de Sousse;Licence Informatique;607;M;2.20;2.25;2.32
+Sousse;Faculté des Sciences de Sousse;Licence Informatique;607;I;2.05;2.10;2.18
+Sousse;Faculté des Sciences de Sousse;Licence Physique;608;S;1.75;1.80;1.88
+Sousse;Faculté des Sciences de Sousse;Licence Biologie;609;S;1.80;1.85;1.92
+Sousse;Faculté de Droit de Sousse;Licence Droit;610;L;1.50;1.55;1.62
+Sousse;Faculté de Droit de Sousse;Licence Sciences Politiques;611;L;1.55;1.60;1.68
+Sousse;ISSEP Sousse;Licence STAPS;612;SP;1.25;1.30;1.35
+Sousse;ISET Sousse;Licence Appliquée Informatique;613;M;1.85;1.90;1.98
+Sousse;ISET Sousse;Licence Appliquée Informatique;613;I;1.70;1.75;1.82
+Monastir;Faculté de Médecine de Monastir;Médecine;901;S;2.98;3.05;3.10
+Monastir;Faculté de Médecine de Monastir;Médecine;901;M;2.92;2.98;3.05
+Monastir;Faculté de Médecine de Monastir;Pharmacie;902F;S;2.82;2.88;2.92
+Monastir;ENIM;Cycle Préparatoire Ingénieur;903M;M;2.50;2.55;2.62
+Monastir;ENIM;Cycle Préparatoire Ingénieur;903M;T;2.40;2.45;2.52
+Monastir;ENIM;Cycle Ingénieur Génie Textile;904;T;2.15;2.20;2.28
+Monastir;ISIMM;Licence Informatique;905;M;2.15;2.20;2.28
+Monastir;ISIMM;Licence Informatique;905;I;2.00;2.05;2.12
+Monastir;ISIMM;Licence Mathématiques Appliquées;906;M;2.25;2.30;2.35
+Monastir;Faculté des Sciences de Monastir;Licence Physique;907;S;1.80;1.85;1.92
+Monastir;Faculté des Sciences de Monastir;Licence Chimie;908;S;1.70;1.75;1.82
+Monastir;Faculté des Sciences de Monastir;Licence Biologie;909;S;1.85;1.90;1.95
+Monastir;ISIG Monastir;Licence Informatique de Gestion;910;E;1.60;1.65;1.72
+Monastir;ISSEP Monastir;Licence STAPS;911;SP;1.18;1.22;1.28
+Monastir;ISET Monastir;Licence Appliquée Génie Mécanique;912;T;1.55;1.60;1.68
+Monastir;ISET Monastir;Licence Appliquée Informatique;913;I;1.65;1.70;1.78
+Mahdia;ISG Mahdia;Licence Gestion;2301;E;1.40;1.45;1.50
+Mahdia;ISG Mahdia;Licence Informatique de Gestion;2302;E;1.45;1.50;1.55
+Mahdia;ISG Mahdia;Licence Informatique de Gestion;2302;M;1.60;1.65;1.72
+Mahdia;ISG Mahdia;Licence Commerce;2303;E;1.35;1.40;1.48
+Mahdia;ISET Mahdia;Licence Appliquée Informatique;2304;M;1.55;1.60;1.68
+Mahdia;ISET Mahdia;Licence Appliquée Informatique;2304;I;1.40;1.45;1.52
+Mahdia;ISET Mahdia;Licence Génie Mécanique;2305;T;1.45;1.50;1.58
+Mahdia;ISET Mahdia;Licence Génie Électrique;2306;T;1.40;1.45;1.52
+Sfax;Faculté de Médecine de Sfax;Médecine;701;S;2.95;3.00;3.08
+Sfax;Faculté de Médecine de Sfax;Médecine;701;M;2.88;2.95;3.02
+Sfax;Faculté de Médecine de Sfax;Pharmacie;702;S;2.78;2.85;2.90
+Sfax;Faculté de Médecine de Sfax;Médecine Dentaire;703;S;2.80;2.85;2.92
+Sfax;ENIS;Cycle Préparatoire Ingénieur;801;M;2.55;2.60;2.68
+Sfax;ENIS;Cycle Préparatoire Ingénieur;801;T;2.45;2.50;2.58
+Sfax;ENIS;Cycle Ingénieur Informatique;802S;M;2.48;2.52;2.60
+Sfax;ENIS;Cycle Ingénieur Informatique;802S;I;2.32;2.38;2.45
+Sfax;ENIS;Cycle Ingénieur Génie Électrique;803S;T;2.35;2.40;2.48
+Sfax;Faculté des Sciences de Sfax;Licence Physique;804;S;1.80;1.85;1.90
+Sfax;Faculté des Sciences de Sfax;Licence Chimie;805;S;1.65;1.70;1.75
+Sfax;Faculté des Sciences de Sfax;Licence Informatique;806;M;2.10;2.15;2.22
+Sfax;Faculté des Sciences de Sfax;Licence Informatique;806;I;1.95;2.00;2.08
+Sfax;Faculté des Sciences de Sfax;Licence Mathématiques;807;M;2.20;2.25;2.30
+Sfax;Faculté des Sciences de Sfax;Licence Biologie;808;S;1.75;1.80;1.88
+Sfax;ISBS;Licence Biotechnologie;809;S;2.00;2.05;2.12
+Sfax;FSEGS;Licence Économie;810;E;1.55;1.60;1.65
+Sfax;FSEGS;Licence Gestion;811;E;1.60;1.65;1.72
+Sfax;FSEGS;Licence Finance;812;E;1.65;1.70;1.78
+Sfax;FSJES Sfax;Licence Droit;813;L;1.40;1.45;1.52
+Sfax;ISSEP Sfax;Licence STAPS;814;SP;1.15;1.20;1.28
+Sfax;ISET Sfax;Licence Appliquée Informatique;815;M;1.75;1.80;1.88
+Sfax;ISET Sfax;Licence Appliquée Informatique;815;I;1.60;1.65;1.72
+Sfax;ISET Sfax;Licence Génie Mécanique;816;T;1.55;1.60;1.68
+Kairouan;ISIGK;Licence Info de Gestion;1301;E;1.45;1.50;1.58
+Kairouan;ISIGK;Licence Info de Gestion;1301;M;1.60;1.65;1.72
+Kairouan;ISIGK;Licence Comptabilité;1302;E;1.40;1.45;1.52
+Kairouan;Faculté des Lettres de Kairouan;Licence Langue Arabe;1303;L;1.10;1.15;1.22
+Kairouan;Faculté des Lettres de Kairouan;Licence Langue Française;1304;L;1.20;1.25;1.32
+Kairouan;Faculté des Lettres de Kairouan;Licence Histoire;1305;L;1.05;1.10;1.18
+Kairouan;ISET Kairouan;Licence Appliquée Informatique;1306;M;1.40;1.45;1.52
+Kairouan;ISET Kairouan;Licence Appliquée Informatique;1306;I;1.25;1.30;1.38
+Kairouan;ISET Kairouan;Licence Génie Mécanique;1307;T;1.30;1.35;1.42
+Kairouan;ISET Kairouan;Licence Génie Électrique;1308;T;1.28;1.32;1.40
+Kasserine;ISIK;Licence Informatique;1601K;M;1.50;1.55;1.62
+Kasserine;ISIK;Licence Informatique;1601K;I;1.35;1.40;1.48
+Kasserine;ISIK;Licence Mathématiques;1602K;M;1.55;1.60;1.68
+Kasserine;ISET Kasserine;Licence Appliquée Informatique;1603K;M;1.30;1.35;1.42
+Kasserine;ISET Kasserine;Licence Appliquée Informatique;1603K;I;1.15;1.20;1.28
+Kasserine;ISET Kasserine;Licence Génie Mécanique;1604K;T;1.20;1.25;1.32
+Kasserine;ISLK;Licence Droit;1605K;L;1.05;1.10;1.18
+Kasserine;ISLK;Licence Langues;1606K;L;1.00;1.05;1.12
+Sidi Bouzid;ISET Sidi Bouzid;Licence Appliquée Informatique;2401;M;1.25;1.30;1.38
+Sidi Bouzid;ISET Sidi Bouzid;Licence Appliquée Informatique;2401;I;1.10;1.15;1.22
+Sidi Bouzid;ISET Sidi Bouzid;Licence Génie Mécanique;2402;T;1.20;1.25;1.32
+Sidi Bouzid;ISET Sidi Bouzid;Licence Génie Électrique;2403;T;1.15;1.20;1.28
+Sidi Bouzid;ISL Sidi Bouzid;Licence Droit;2404;L;1.00;1.05;1.12
+Sidi Bouzid;ISL Sidi Bouzid;Licence Économie;2405;E;1.05;1.10;1.18
+Gabès;ISIG Gabès;Licence Informatique;1201;M;1.75;1.80;1.88
+Gabès;ISIG Gabès;Licence Informatique;1201;I;1.60;1.65;1.72
+Gabès;ISIG Gabès;Licence Informatique de Gestion;1202;E;1.50;1.55;1.62
+Gabès;ENIG;Cycle Ingénieur Génie Chimique;1203;S;2.30;2.35;2.42
+Gabès;ENIG;Cycle Ingénieur Génie Chimique;1203;M;2.35;2.40;2.48
+Gabès;ENIG;Cycle Ingénieur Génie Civil;1204;T;2.15;2.20;2.28
+Gabès;ENIG;Cycle Ingénieur Génie Civil;1204;M;2.25;2.30;2.38
+Gabès;Faculté des Sciences de Gabès;Licence Physique;1205;S;1.50;1.55;1.62
+Gabès;Faculté des Sciences de Gabès;Licence Chimie;1206;S;1.45;1.50;1.58
+Gabès;Faculté des Sciences de Gabès;Licence Biologie;1207;S;1.55;1.60;1.68
+Gabès;ISET Gabès;Licence Appliquée Génie Mécanique;1208;T;1.40;1.45;1.52
+Gabès;ISET Gabès;Licence Appliquée Informatique;1209;I;1.35;1.40;1.48
+Médenine;ISI Médenine;Licence Informatique;1701;M;1.55;1.60;1.65
+Médenine;ISI Médenine;Licence Informatique;1701;I;1.40;1.45;1.52
+Médenine;ISI Médenine;Licence Mathématiques;1702M;M;1.60;1.65;1.72
+Médenine;IRA Médenine;Licence Sciences de l'Environnement;1703M;S;1.35;1.40;1.48
+Médenine;ISET Médenine;Licence Appliquée Informatique;1704M;M;1.40;1.45;1.52
+Médenine;ISET Médenine;Licence Appliquée Informatique;1704M;I;1.25;1.30;1.38
+Médenine;ISET Djerba;Licence Informatique Multimédia;1705M;I;1.50;1.55;1.62
+Médenine;ISET Djerba;Licence Tourisme;1706M;E;1.30;1.35;1.42
+Tataouine;ISET Tataouine;Licence Appliquée Informatique;2501;M;1.15;1.20;1.28
+Tataouine;ISET Tataouine;Licence Appliquée Informatique;2501;I;1.00;1.05;1.12
+Tataouine;ISET Tataouine;Licence Génie Électrique;2502;T;1.05;1.10;1.18
+Tataouine;ISL Tataouine;Licence Droit;2503;L;0.95;1.00;1.08
+Gafsa;ISG Gafsa;Licence Gestion;1401;E;1.35;1.40;1.48
+Gafsa;ISG Gafsa;Licence Comptabilité;1402;E;1.38;1.42;1.50
+Gafsa;ISG Gafsa;Licence Info de Gestion;1403;E;1.42;1.48;1.55
+Gafsa;ISG Gafsa;Licence Info de Gestion;1403;M;1.55;1.60;1.68
+Gafsa;Faculté des Sciences de Gafsa;Licence Informatique;1404;M;1.50;1.55;1.62
+Gafsa;Faculté des Sciences de Gafsa;Licence Informatique;1404;I;1.35;1.40;1.48
+Gafsa;Faculté des Sciences de Gafsa;Licence Mathématiques;1405;M;1.55;1.60;1.68
+Gafsa;Faculté des Sciences de Gafsa;Licence Physique;1406;S;1.30;1.35;1.42
+Gafsa;ISET Gafsa;Licence Appliquée Génie Minier;1407;T;1.25;1.30;1.38
+Gafsa;ISET Gafsa;Licence Appliquée Informatique;1408;I;1.20;1.25;1.32
+Tozeur;ISLT Tozeur;Licence Langues;1801;L;1.15;1.20;1.28
+Tozeur;ISLT Tozeur;Licence Langue Anglaise;1802;L;1.20;1.25;1.32
+Tozeur;ISLT Tozeur;Licence Traduction;1803;L;1.25;1.30;1.38
+Tozeur;ISET Tozeur;Licence Appliquée Informatique;1804;M;1.28;1.32;1.40
+Tozeur;ISET Tozeur;Licence Appliquée Informatique;1804;I;1.12;1.18;1.25
+Tozeur;ISET Tozeur;Licence Tourisme et Hôtellerie;1805;E;1.10;1.15;1.22
+Kébili;ISET Kébili;Licence Appliquée Informatique;2601;M;1.10;1.15;1.22
+Kébili;ISET Kébili;Licence Appliquée Informatique;2601;I;0.95;1.00;1.08
+Kébili;ISET Kébili;Licence Génie Électrique;2602;T;1.00;1.05;1.12
+Kébili;ISET Kébili;Licence Énergies Renouvelables;2603;T;1.05;1.10;1.18
+Kébili;ISL Kébili;Licence Droit;2604;L;0.90;0.95;1.02
