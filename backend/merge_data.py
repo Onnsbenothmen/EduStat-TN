@@ -14,14 +14,49 @@ OUTPUT_PATH   = os.path.join(DATA_DIR, "edu_stat_master_dataset.csv")
 # ─────────────────────────────────────────────
 # 2. Chargement des fichiers
 # ─────────────────────────────────────────────
-print("[1/4] Chargement des fichiers...")
+print("[1/5] Chargement des fichiers...")
 
-# Lecture en latin-1 — pandas convertit automatiquement en UTF-8 a la sauvegarde
-df_scores = pd.read_csv(SCORES_PATH, sep=";", encoding="latin-1")
+# Lecture en UTF-8 (encodage réel du fichier scores.csv)
+df_scores = pd.read_csv(SCORES_PATH, sep=";", encoding="utf-8")
 df_inscrits = pd.read_excel(INSCRITS_PATH)
 
 print(f"  scores   : {df_scores.shape[0]} lignes | colonnes : {df_scores.columns.tolist()}")
 print(f"  inscrits : {df_inscrits.shape[0]} lignes | colonnes : {df_inscrits.columns.tolist()}")
+
+# ─────────────────────────────────────────────
+# 2b. Nettoyage des données
+# ─────────────────────────────────────────────
+print("[2/5] Nettoyage des données...")
+
+def clean_dataframe(df, name="df"):
+    original_shape = df.shape
+
+    # Supprimer les espaces en début/fin sur les colonnes texte
+    str_cols = df.select_dtypes(include="str").columns
+    df[str_cols] = df[str_cols].apply(lambda col: col.str.strip())
+
+    # Normaliser les noms de colonnes (strip + minuscules)
+    df.columns = [c.strip() for c in df.columns]
+
+    # Supprimer les lignes entièrement vides
+    df = df.dropna(how="all")
+
+    # Supprimer les doublons complets
+    before_dedup = df.shape[0]
+    df = df.drop_duplicates()
+    after_dedup = df.shape[0]
+
+    print(f"  [{name}] {original_shape} -> {df.shape} | doublons supprimés : {before_dedup - after_dedup}")
+    return df
+
+df_scores  = clean_dataframe(df_scores,  "scores")
+df_inscrits = clean_dataframe(df_inscrits, "inscrits")
+
+# Convertir les colonnes numériques avec virgule décimale → point
+numeric_score_cols = [c for c in df_scores.columns if "Score" in c or "score" in c]
+for col in numeric_score_cols:
+    if df_scores[col].dtype == object:
+        df_scores[col] = df_scores[col].str.replace(",", ".").astype(float)
 
 # ─────────────────────────────────────────────
 # 3. Préparation des inscrits
@@ -36,7 +71,7 @@ inscrits_summary = (
     .reset_index()
 )
 
-print(f"[2/4] Resume inscrits (par etablissement & annee) : {inscrits_summary.shape[0]} lignes")
+print(f"[3/5] Resume inscrits (par etablissement & annee) : {inscrits_summary.shape[0]} lignes")
 
 # ─────────────────────────────────────────────
 # 4. Ajout de la colonne code_etablissement dans scores
@@ -56,7 +91,7 @@ if "code_etablissement" not in df_scores.columns:
 # ─────────────────────────────────────────────
 # 5. Fusion (LEFT JOIN : on garde tous les scores)
 # ─────────────────────────────────────────────
-print("[3/4] Fusion en cours...")
+print("[4/5] Fusion en cours...")
 
 # On croise avec chaque année disponible dans les inscrits
 annees = inscrits_summary["annee"].unique()
@@ -105,7 +140,9 @@ if nan_avant > 0:
         print(f"    {col} -> moyenne utilisee : {master_df[col].mean():.0f}")
 
 # ─────────────────────────────────────────────
-# 7. Sauvegarde (UTF-8 avec BOM pour Excel)
+# 7. Sauvegarde (UTF-8, séparateur virgule)
 # ─────────────────────────────────────────────
-master_df.to_csv(OUTPUT_PATH, index=False, sep=";", encoding="utf-8-sig")
-print(f"[4/4] Fusion reussie ! Fichier sauvegarde : {OUTPUT_PATH}")
+master_df.to_csv(OUTPUT_PATH, index=False, sep=",", encoding="utf-8")
+print(f"[5/5] Fusion + nettoyage reussis ! Fichier sauvegarde : {OUTPUT_PATH}")
+print(f"  Format : CSV UTF-8, separateur ','")
+print(f"  Dimensions finales : {master_df.shape[0]} lignes x {master_df.shape[1]} colonnes")
